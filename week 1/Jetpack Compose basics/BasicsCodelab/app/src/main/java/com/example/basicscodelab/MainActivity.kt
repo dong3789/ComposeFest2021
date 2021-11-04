@@ -40,7 +40,7 @@ fun Greeting(name: String) {
         ) {
         Row(modifier = Modifier.padding(24.dp)){
             Column(modifier = Modifier
-                .weight(2f)
+                .weight(1f)
                 .padding(bottom = extraPadding)
                 ) {
                 Text(text = "Hello")
