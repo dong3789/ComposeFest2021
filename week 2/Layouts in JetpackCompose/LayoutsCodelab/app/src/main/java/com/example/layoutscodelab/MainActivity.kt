@@ -24,8 +24,23 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.Menu
 import androidx.compose.material.icons.rounded.Search
 import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.layout.AlignmentLine
+import androidx.compose.ui.layout.FirstBaseline
+import androidx.compose.ui.layout.Layout
+import androidx.compose.ui.layout.layout
+import androidx.compose.ui.unit.Dp
+import androidx.compose.ui.unit.max
 import coil.compose.rememberImagePainter
 import kotlinx.coroutines.launch
+import kotlin.math.max
+
+
+val topics = listOf(
+    "Arts & Crafts", "Beauty", "Books", "Business", "Comics", "Culinary",
+    "Design", "Fashion", "Film", "History", "Maths", "Music", "People", "Philosophy",
+    "Religion", "Social sciences", "Technology", "TV", "Writing"
+)
 
 
 class MainActivity : AppCompatActivity() {
@@ -35,8 +50,8 @@ class MainActivity : AppCompatActivity() {
             LayoutsCodelabTheme {
                 // A surface container using the 'background' color from the theme
 //                LazyList()
-                //LayoutsCodelab()
-                ScrollingList()
+                LayoutsCodelab()
+//                ScrollingList()
             }
         }
     }
@@ -66,65 +81,39 @@ fun LayoutsCodelab() {
 }
 
 
+
 /**
  * 수정자
  */
 @Composable
 fun BodyContent(modifier: Modifier = Modifier) {
 //    Column(modifier = modifier.padding(8.dp)) { //모든 Bodycontent modifier padding을 추가
-    Column(modifier = modifier) {
-        Text(text = "Hi here")
-        Text("This is Layouts codelab")
-    }
-}
+//    Column(modifier = modifier) {
+//        Text(text = "Hi here")
+//        Text("This is Layouts codelab")
+//    }
+//    MyOwnColumn(modifier = modifier) {
+//        Text(text = "Hi here")
+//        Text("This is Layouts codelab")
+//        Text("This is Layouts codelab")
+//        Text("This is Layouts codelab")
+//        Text("This is Layouts codelab")
+//        Text("This is Layouts codelab")
+//    }
 
-/**
- * 슬롯 API
- */
-@Composable
-fun PhotographerCard(modifier : Modifier = Modifier) {
-    Row(
-        modifier
-            .padding(8.dp)
-            .clickable(onClick = { })
-            .padding(16.dp) //padding 순서를 변경하여 클릭시 전체가 포함되도록 적용
-            .clip(RoundedCornerShape(5.dp))
-            .background(MaterialTheme.colors.surface)
-
-    ) {
-        Surface(
-            modifier = Modifier.size(50.dp),
-            shape = CircleShape,
-            color = MaterialTheme.colors.onSurface.copy(alpha = 0.2f)
-        ){
-          // todo:: image here
-        }
-        Column(
-            modifier = Modifier
-                .padding(start = 8.dp)
-                .align(Alignment.CenterVertically)
-                .background(
-                    MaterialTheme.colors.primary
-                )
-        ) {
-            Text("Alfred Sisley", fontWeight = FontWeight.Bold)
-            CompositionLocalProvider(LocalContentAlpha provides ContentAlpha.medium) {
-                Text("3 minutes age", style = MaterialTheme.typography.body2)
+    Row(modifier = modifier
+        .background(color = Color.LightGray)
+        .padding(30.dp)
+        .size(200.dp)
+        .horizontalScroll(rememberScrollState()),
+        content = {
+            StaggeredGrid {
+                for (topic in topics) {
+                    Chip(modifier = Modifier.padding(8.dp), text = topic)
+                }
             }
-
-        }
-    }
-
+        })
 }
-
-//@Preview(showBackground = true)
-@Composable
-fun PhotographerCardPreview() {
-    LayoutsCodelabTheme {
-        PhotographerCard()
-    }
-}
-
 
 /**
  * 목록 작업
@@ -196,6 +185,91 @@ fun ImageListItem(index: Int) {
         )
         Spacer(Modifier.width(10.dp))
         Text("Item #$index", style = MaterialTheme.typography.subtitle1)
+    }
+}
+
+
+
+
+@Composable
+fun StaggeredGrid(
+    modifier: Modifier = Modifier,
+    rows: Int = 3,
+    content: @Composable () -> Unit
+) {
+    Layout(
+        modifier = modifier,
+        content = content
+    ) { measurables, constraints ->
+        val rowWidths = IntArray(rows) { 0 }
+        val rowHeights = IntArray(rows) { 0 }
+        val placeables = measurables.mapIndexed { index, measurable ->
+            val placeable = measurable.measure(constraints)
+            val row = index % rows
+            rowWidths[row] += placeable.width
+            rowHeights[row] = max(rowHeights[row], placeable.height)
+
+            placeable
+        }
+        val width = rowWidths.maxOrNull()
+            ?.coerceIn(constraints.minWidth.rangeTo(constraints.maxWidth)) ?: constraints.minWidth
+        val height = rowHeights.sumOf { it }
+            .coerceIn(constraints.minHeight.rangeTo(constraints.maxHeight))
+        val rowY = IntArray(rows) { 0 }
+        for (i in 1 until rows) {
+            rowY[i] = rowY[i - 1] + rowHeights[i - 1]
+        }
+
+        layout(width, height) {
+            val rowX = IntArray(rows) { 0 }
+
+            placeables.forEachIndexed { index, placeable ->
+                val row = index % rows
+                placeable.placeRelative(
+                    x = rowX[row],
+                    y = rowY[row]
+                )
+                rowX[row] += placeable.width
+            }
+        }
+    }
+}
+
+@Composable
+fun Chip(modifier: Modifier = Modifier, text: String) {
+    Card(
+        modifier = modifier,
+        border = BorderStroke(color = Color.Black, width = Dp.Hairline),
+        shape = RoundedCornerShape(8.dp)
+    ) {
+        Row(
+            modifier = Modifier.padding(start = 8.dp, top = 4.dp, end = 8.dp, bottom = 4.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Box(
+                modifier = Modifier
+                    .size(16.dp, 16.dp)
+                    .background(color = MaterialTheme.colors.secondary)
+            )
+            Spacer(Modifier.width(4.dp))
+            Text(text = text)
+        }
+    }
+}
+
+@Preview
+@Composable
+fun ChipPreview() {
+    LayoutsCodelabTheme {
+        Chip(text = "Hi there")
+    }
+}
+
+@Preview
+@Composable
+fun LayoutsCodelabPreview() {
+    LayoutsCodelabTheme {
+        LayoutsCodelab()
     }
 }
 
