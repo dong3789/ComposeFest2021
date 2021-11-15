@@ -14,7 +14,7 @@ import com.example.layoutscodelab.ui.theme.LayoutsCodelabTheme
 
 @Composable
 fun TwoTexts(modifier: Modifier = Modifier, text1: String, text2: String) {
-    // 재귀적으로 Row의 Divider로 나누었을때 높이를 줄여준다. 
+    // 재귀적으로 Row의 Divider로 나누었을때 높이를 줄여준다.
     Row(modifier = modifier.height(IntrinsicSize.Min)) {
         Text(
             modifier = Modifier
