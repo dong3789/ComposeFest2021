@@ -128,6 +128,7 @@ fun RallyNavHost(navController: NavHostController, modifier: Modifier = Modifier
                     type = NavType.StringType
                 }
             ),
+            
             deepLinks = listOf(
                 navDeepLink {
                     uriPattern = "rally://$accountsName/{name}"
