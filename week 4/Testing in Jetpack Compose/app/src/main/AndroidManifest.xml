@@ -25,6 +25,7 @@
         android:supportsRtl="true"
 
         android:theme="@style/Theme.Rally">
+
         <activity
             android:name=".RallyActivity"
             android:windowSoftInputMode="adjustResize"
