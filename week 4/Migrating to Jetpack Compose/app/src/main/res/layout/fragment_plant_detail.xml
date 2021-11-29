@@ -93,11 +93,11 @@
             android:paddingBottom="@dimen/fab_bottom_padding"
             app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
+            <!--
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="@dimen/margin_normal">
-
                 <TextView
                     android:id="@+id/plant_detail_name"
                     android:layout_width="0dp"
@@ -111,7 +111,6 @@
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
                     tools:text="Apple" />
-
                 <TextView
                     android:id="@+id/plant_watering_header"
                     android:layout_width="0dp"
@@ -126,7 +125,6 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@id/plant_detail_name" />
-
                 <TextView
                     android:id="@+id/plant_watering"
                     android:layout_width="0dp"
@@ -139,7 +137,6 @@
                     app:layout_constraintTop_toBottomOf="@id/plant_watering_header"
                     app:wateringText="@{viewModel.plant.wateringInterval}"
                     tools:text="every 7 days" />
-
                 <TextView
                     android:id="@+id/plant_description"
                     style="?android:attr/textAppearanceMedium"
@@ -154,13 +151,12 @@
                     app:layout_constraintTop_toBottomOf="@id/plant_watering"
                     app:renderHtml="@{viewModel.plant.description}"
                     tools:text="Details about the plant" />
-
             </androidx.constraintlayout.widget.ConstraintLayout>
-
+            -->
             <androidx.compose.ui.platform.ComposeView
                 android:id="@+id/compose_view"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"/>
+                android:layout_height="match_parent" />
 
         </androidx.core.widget.NestedScrollView>
 
