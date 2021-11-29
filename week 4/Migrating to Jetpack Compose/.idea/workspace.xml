@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b2453f5-8381-4f84-8f0e-9adec281727d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/androidTest/java/com/example/layoutscodelab/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/ConstraintLayout.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/FirstBaselineToTop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/MyOwnColumn.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/PhotographerCard.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/TwoTexts.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/example/layoutscodelab/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/app/src/test/java/com/example/layoutscodelab/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/LayoutsCodelab/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Layouts in JetpackCompose/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/7.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/7.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_activity_activity_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_activity_activity_compose_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_activity_activity_ktx_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_collection_collection_ktx_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_animation_animation_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_animation_animation_core_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_foundation_foundation_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_material_material_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_material_material_icons_extended_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_material_material_ripple_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_runtime_runtime_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_runtime_runtime_livedata_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_text_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_core_core_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_core_core_ktx_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_databinding_viewbinding_7_0_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_fragment_fragment_ktx_1_3_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_fragment_fragment_ktx_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_compose_2_4_0_rc01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_savedstate_savedstate_ktx_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_android_material_material_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_guava_guava_28_1_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_guava_guava_30_1_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_truth_truth_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_google_truth_truth_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_googlecode_java_diff_utils_diffutils_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_checkerframework_checker_qual_3_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/libraries/Gradle__org_ow2_asm_asm_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/modules/StateCodelab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/modules/finished/StateCodelab.finished.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/modules/start/StateCodelab.start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/todo/Data.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/todo/TodoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/todo/TodoComponents.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/todo/TodoScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/todo/TodoViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/ui/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/ui/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/ui/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/ui/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/java/com/codelabs/state/util/DataGenerators.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/finished/src/test/java/com/codelabs/state/todo/TodoViewModelTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/screenshots/state_movie.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/examples/ExpandingCard.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/examples/HelloCodelabActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/todo/Data.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/todo/TodoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/todo/TodoComponents.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/todo/TodoScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/todo/TodoViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/ui/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/ui/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/ui/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/ui/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/util/DataGenerators.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/res/layout/activity_hello_codelab.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 2/Using state in Jetpack Compose/start/src/test/java/com/codelabs/state/todo/TodoViewModelTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/7.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/7.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_activity_activity_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_activity_activity_compose_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_activity_activity_ktx_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_collection_collection_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_animation_animation_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_animation_animation_core_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_foundation_foundation_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_material_material_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_material_material_ripple_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_runtime_runtime_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_text_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_1_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_core_core_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_core_core_ktx_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_savedstate_savedstate_ktx_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/modules/AnimationCodelab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/modules/Jetpack Compose Animation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/modules/finished/AnimationCodelab.finished.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/modules/start/AnimationCodelab.start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/java/com/example/android/codelab/animation/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/java/com/example/android/codelab/animation/ui/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/java/com/example/android/codelab/animation/ui/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/java/com/example/android/codelab/animation/ui/home/Home.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/finished/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/screenshots/app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/java/com/example/android/codelab/animation/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/java/com/example/android/codelab/animation/ui/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/java/com/example/android/codelab/animation/ui/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/java/com/example/android/codelab/animation/ui/home/Home.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Animation/start/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/7.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/7.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_activity_activity_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_activity_activity_compose_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_activity_activity_ktx_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_arch_core_core_testing_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_collection_collection_ktx_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_animation_animation_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_animation_animation_core_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_foundation_foundation_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_material_material_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_material_material_icons_extended_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_material_material_ripple_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_runtime_runtime_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_runtime_runtime_livedata_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_test_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_test_junit4_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_test_manifest_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_text_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_core_core_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_core_core_ktx_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_fragment_fragment_ktx_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_compose_2_4_0_rc01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_navigation_navigation_common_2_4_0_alpha10_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_navigation_navigation_common_ktx_2_4_0_alpha10_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_navigation_navigation_compose_2_4_0_alpha10_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_2_4_0_alpha10_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_ktx_2_4_0_alpha10_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_savedstate_savedstate_ktx_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_test_espresso_espresso_contrib_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__com_google_android_apps_common_testing_accessibility_framework_accessibility_test_framework_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__com_google_android_material_material_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_test_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_mockito_mockito_core_2_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/modules/Rally.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/modules/app/Rally.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/ASSETS_LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/androidTest/assets/circle_100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/androidTest/assets/circle_done.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/androidTest/assets/circle_initial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/androidTest/java/com/example/compose/rally/AnimatingCircleTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/androidTest/java/com/example/compose/rally/RallyNavHostTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/androidTest/java/com/example/compose/rally/ScreenshotComparator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/RallyActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/RallyScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/data/RallyData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/accounts/AccountsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/bills/BillsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/components/CommonUi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/components/DetailsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/components/RallyAlertDialog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/components/RallyAnimatedCircle.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/components/TabRow.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/overview/OverviewScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/theme/RallyTheme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/java/com/example/compose/rally/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/drawable-v26/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/font/eczar_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/font/eczar_semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/font/robotocondensed_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/font/robotocondensed_light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/font/robotocondensed_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/screenshots/donut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/screenshots/rally.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose Navigation/spotless/copyright.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/7.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/7.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/runConfigurations/App__Finish.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/runConfigurations/App__Start.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/ASSETS_LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/data/Post.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/finish/FinishActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/finish/Home.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/finish/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/finish/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/finish/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/finish/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/Home.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/theme/Shpae.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/java/com/codelab/theming/ui/start/theme/Typography.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_1_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_2_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_3_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_4_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-nodpi/post_5_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/drawable-v26/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/font/domine_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/font/domine_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/font/montserrat_medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/font/montserrat_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/font/montserrat_semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/values-night/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/screenshots/finish_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/screenshots/finish_light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/screenshots/start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week 3/Jetpack Compose theming/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/ASSETS_LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/JetnewsApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/data/AppContainerImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/data/interests/InterestsRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/data/posts/PostsData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/data/posts/PostsRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/model/Post.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/AppDrawer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/JetnewsApp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/JetnewsNavGraph.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/article/ArticleScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/article/PostContent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/components/InsetAwareTopAppBar.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/home/HomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/home/PostCards.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/interests/InterestsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/utils/MapExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/java/com/example/jetnews/utils/Modifiers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/placeholder_1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/placeholder_4_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_1_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_2_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_3_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_4_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable-nodpi/post_5_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable/ic_jetnews_logo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable/ic_jetnews_wordmark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/drawable/ic_text_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/font/domine_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/font/domine_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/font/montserrat_medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/font/montserrat_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/font/montserrat_semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/values-night/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessibilityCodelab/spotless/copyright.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_ktx_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_testing_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_ktx_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_animation_animation_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_animation_animation_core_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_foundation_foundation_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_material_material_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_material_material_ripple_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_runtime_runtime_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_runtime_runtime_livedata_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_test_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_test_junit4_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_text_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_databinding_adapters_7_0_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_databinding_common_7_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_databinding_ktx_7_0_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_databinding_runtime_7_0_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_viewbinding_7_0_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_ktx_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_common_2_3_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_common_ktx_2_3_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_fragment_2_3_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_fragment_ktx_2_3_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_2_3_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_ktx_2_3_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_ui_2_3_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_ui_ktx_2_3_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_2_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_common_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_ktx_2_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_runtime_2_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_ktx_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_framework_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_startup_startup_runtime_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_contrib_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_intents_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_rules_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_uiautomator_uiautomator_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_work_work_runtime_2_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_work_work_runtime_ktx_2_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_work_work_testing_2_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_12_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_12_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_apps_common_testing_accessibility_framework_accessibility_test_framework_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_compose_theme_adapter_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_30_1_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_truth_truth_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_qual_3_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_test_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Migrating_to_Jetpack_Compose.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Migrating_to_Jetpack_Compose.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASSETS_LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/GardenActivityTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/PlantDetailFragmentTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/data/GardenPlantingDaoTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/data/PlantDaoTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/utilities/LiveDataTestUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/utilities/TestUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/viewmodels/PlantDetailViewModelTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/google/samples/apps/sunflower/worker/SeedDatabaseWorkerTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/plants.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/GardenActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/GardenFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/HomeViewPagerFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/PlantListFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/BindingAdapters.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/GardenPlantingAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/PlantAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/PlantDetailBindingAdapters.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/adapters/SunflowerPagerAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/AppDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/Converters.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/GardenPlanting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/GardenPlantingDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/GardenPlantingRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/Plant.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/PlantAndGardenPlantings.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/PlantDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/data/PlantRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/plantdetail/PlantDetailDescription.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/plantdetail/PlantDetailFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/utilities/Constants.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/utilities/GrowZoneUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/utilities/InjectorUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/GardenPlantingListViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/GardenPlantingListViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantAndGardenPlantingsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantDetailViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantDetailViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantListViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/viewmodels/PlantListViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/views/MaskedCardView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/workers/SeedDatabaseWorker.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_out_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_out_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/animator/show_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/color/color_on_surface_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/color/color_on_surface_50.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/garden_tab_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_detail_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_detail_share.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_filter_list_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_my_garden_active.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_my_garden_inactive.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plant_list_active.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plant_list_inactive.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_plus.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/plant_list_tab_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tab_icon_color_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_garden.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_garden.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_plant_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_plant_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_view_pager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item_garden_planting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item_plant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_plant_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_plant_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_garden.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-ca/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-de/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-es/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-fr/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-it/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-ja/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night-v23/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-ru/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-tr-rTR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v23/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v29/shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-zh-rCN/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-zh-rTW/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/anim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/data/ConvertersTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/data/GardenPlantingTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/data/PlantTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/google/samples/apps/sunflower/utilities/GrowZoneUtilTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/icon_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/icon_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jetpack_donut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/phone_my_garden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/phone_plant_detail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/phone_plant_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/7.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/7.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_activity_activity_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_activity_activity_compose_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_activity_activity_ktx_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_arch_core_core_testing_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_collection_collection_ktx_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_animation_animation_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_animation_animation_core_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_foundation_foundation_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_material_material_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_material_material_icons_extended_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_material_material_ripple_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_runtime_runtime_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_runtime_runtime_livedata_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_test_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_test_junit4_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_test_manifest_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_text_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_1_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_core_core_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_core_core_ktx_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_fragment_fragment_ktx_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_savedstate_savedstate_ktx_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_test_espresso_espresso_contrib_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__com_google_android_apps_common_testing_accessibility_framework_accessibility_test_framework_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__com_google_android_material_material_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_test_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_mockito_mockito_core_2_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/modules/Rally.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/modules/app/Rally.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/ASSETS_LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/androidTest/assets/circle_100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/androidTest/assets/circle_done.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/androidTest/assets/circle_initial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/androidTest/java/com/example/compose/rally/AnimatingCircleTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/androidTest/java/com/example/compose/rally/ScreenshotComparator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/androidTest/java/com/example/compose/rally/TopAppBarTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/OverviewScreenTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/RallyActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/RallyScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/data/RallyData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/accounts/AccountsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/bills/BillsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/components/CommonUi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/components/DetailsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/components/RallyAlertDialog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/components/RallyAnimatedCircle.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/components/TopAppBar.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/overview/OverviewScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/java/com/example/compose/rally/ui/theme/RallyTheme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/drawable-v26/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/font/eczar_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/font/eczar_semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/font/robotocondensed_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/font/robotocondensed_light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/font/robotocondensed_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/screenshots/donut.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/screenshots/rally.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing in Jetpack Compose/spotless/copyright.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\YOON\.android\avd\Pixel_5_API_25.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="21Jwlm8EuNwRfBDDKGVMhi0QQSM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Migrating_to_Jetpack_Compose.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b2453f5-8381-4f84-8f0e-9adec281727d" name="Default Changelist" comment="" />
+      <created>1637672651605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637672651605</updated>
+    </task>
+    <servers />
+  </component>
+</project>
